@@ -25,4 +25,4 @@ Ce projet est un exemple d'application de téléchargement de fichiers en PHP, a
 
 ## Licence
 
-Licence:WTF (se license.md)
+Licence:WTF (see license.md)
